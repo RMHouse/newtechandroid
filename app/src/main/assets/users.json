@@ -1,0 +1,22 @@
+{"users":[
+  {
+    "id":"1",
+    "name": "Коля",
+    "email":"daaksha@gmail.com"
+  },
+
+  {"id":"2",
+    "name": "Вася",
+    "email":"abc@gmail.com"
+  },
+
+  {"id":"3",
+    "name": "Федя",
+    "email":"def@gmail.com"
+  },
+  {"id":"4",
+    "name": "Юра",
+    "email":"xyz@gmail.com"
+  }
+]
+}
